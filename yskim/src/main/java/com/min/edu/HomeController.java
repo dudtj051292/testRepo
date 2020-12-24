@@ -37,6 +37,9 @@ public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
+	
+	//테스트 브런치 생성후 commit and push
+	
 	@Autowired
 	private IBoardService iService;
 	
