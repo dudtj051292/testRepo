@@ -39,7 +39,7 @@ public class HomeController {
 	
 	
 	//테스트 브런치 생성후 commit and push
-	//하나더! 추가합니다 ㅇㅇㅇ
+	//하나더! 추가합니다 ㅇㅇㅇㅎㄴㅁㅎㄴㅇㅁㅎ
 	@Autowired
 	private IBoardService iService;
 	
